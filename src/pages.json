@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/home",
+      "style":{
+        "navigationBarTitleText":"SOSアプリ"
+      }
+    },
+    {
+      "path":"pages/home/search",
+      "style":{
+        "navigationBarTitleText":"検索"
+      }
+    },
+    {
+      "path":"pages/home/plus",
+      "style":{
+        "navigationBarTitleText":"投稿"
+      }
+    },
+    {
+      "path":"pages/home/home2",
+      "style":{
+        "navigationBarTitleText":"SOSアプリ"
+      }
+    },
+    {
+      "path":"pages/genre/drink",
+      "style":{
+        "navigationBarTitleText":"飲料"
+      }
+    },
+    {
+      "path":"pages/genre/foods",
+      "style":{
+        "navigationBarTitleText":"食料"
+      }
+    },
+    {
+      "path":"pages/genre/goods",
+      "style":{
+        "navigationBarTitleText":"持ち物"
+      }
+    },
+    {
+      "path":"pages/genre/other",
+      "style":{
+        "navigationBarTitleText":"その他"
+      }
+    },
+    {
+      "path":"pages/genre/drink2",
+      "style":{
+        "navigationBarTitleText":"飲料"
+      }
+    },
+    {
+      "path":"pages/genre/foods2",
+      "style":{
+        "navigationBarTitleText":"食料"
+      }
+    },
+    {
+      "path":"pages/genre/goods2",
+      "style":{
+        "navigationBarTitleText":"持ち物"
+      }
+    },
+    {
+      "path":"pages/genre/other2",
+      "style":{
+        "navigationBarTitleText":"その他"
+      }
+    }
+  
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "SOSアプリ",
+    "navigationBarBackgroundColor": "#ff0000",
+    "backgroundColor": "#F8F8F8"
+  }
+}
